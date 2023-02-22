@@ -7,5 +7,6 @@ public class EXAMPLE
 	{
 		System.out.println("1466565656");
 		System.out.println("ASDGJKLL");
+		System.out.println("MY NAME IS");
 	}
 }
